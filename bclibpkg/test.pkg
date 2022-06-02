@@ -3,6 +3,6 @@
     "bcver": 4.8,
     "pkgver": 0.1,
     "files": {
-        "main.app": "http://yellowapps.github.io/bclibpkg/data/testpkg/main.app"
+        "main.app": "http://raw.githubusercontent.com/yellowapps/bclibpkg/data/testpkg/main.app"
     }
 }
